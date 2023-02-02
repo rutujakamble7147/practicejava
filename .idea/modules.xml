@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/comparator-example-using-lambda-expression/comparator-example-using-lambda-expression.iml" filepath="$PROJECT_DIR$/comparator-example-using-lambda-expression/comparator-example-using-lambda-expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable-class-example/immutable-class-example.iml" filepath="$PROJECT_DIR$/immutable-class-example/immutable-class-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/practicejava.iml" filepath="$PROJECT_DIR$/practicejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringBuilder-example/stringBuilder-example.iml" filepath="$PROJECT_DIR$/stringBuilder-example/stringBuilder-example.iml" />
     </modules>
   </component>
 </project>

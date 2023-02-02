@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String-example/String-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparator -example-by-using-lambda-expression/comparator -example-by-using-lambda-expression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparator -example-by-using-lambda-expression/src/Employee.java" afterDir="false" />
+    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="adding comparator-example-using-lambda-expression">
+      <change afterPath="$PROJECT_DIR$/stringBuilder-example/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap- Example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap- Example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked-list-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked-list-example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/String-example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Compony.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Compony.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnterInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnterInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiplyTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiplyTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19"
   }
-}</component>
-  <component name="RunManager" selected="Application.Employee">
+}]]></component>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="comparator -example-by-using-lambda-expression" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Linked-list-example" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="stringBuilder-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="String-example" />
@@ -90,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672845727375</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding comparator-example-using-lambda-expression">
+      <created>1675352014122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675352014122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding comparator-example-using-lambda-expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding comparator-example-using-lambda-expression" />
   </component>
 </project>
