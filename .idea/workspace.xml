@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="" />
+    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/String-example/String-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparator -example-by-using-lambda-expression/comparator -example-by-using-lambda-expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparator -example-by-using-lambda-expression/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMap- Example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap- Example/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked-list-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked-list-example/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/String-example/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Compony.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Compony.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immutable-class-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/immutable-class-example/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnterInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnterInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiplyTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiplyTwoNumbers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JromzdeStdTGe3iDFGEvWC0TAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +44,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Employee">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
+      <module name="comparator -example-by-using-lambda-expression" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Linked-list-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HashMap- Example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="immutable-class-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="String-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +108,16 @@
       <updated>1672845727375</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HashMap- Example/HashMap- Example.iml" filepath="$PROJECT_DIR$/HashMap- Example/HashMap- Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked-list-example/Linked-list-example.iml" filepath="$PROJECT_DIR$/Linked-list-example/Linked-list-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-example/String-example.iml" filepath="$PROJECT_DIR$/String-example/String-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator-example-using-lambda-expression/comparator-example-using-lambda-expression.iml" filepath="$PROJECT_DIR$/comparator-example-using-lambda-expression/comparator-example-using-lambda-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutable-class-example/immutable-class-example.iml" filepath="$PROJECT_DIR$/immutable-class-example/immutable-class-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/practicejava.iml" filepath="$PROJECT_DIR$/practicejava.iml" />
     </modules>
   </component>
