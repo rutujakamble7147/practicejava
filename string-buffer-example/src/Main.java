@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        StringBuilder stringBuilder = new StringBuilder("rutuja");
-        System.out.println(stringBuilder);
-        stringBuilder.append(" kamble");
-        System.out.println(stringBuilder);
-        stringBuilder.insert(6, " "+"santosh");
-        System.out.println(stringBuilder);
+        StringBuffer stringBuffer = new StringBuffer("rutuja");
+        System.out.println(stringBuffer);
+        stringBuffer.append(" kamble");
+        System.out.println(stringBuffer);
+        stringBuffer.insert(6, " "+"santosh");
+        System.out.println(stringBuffer);
     }
 }
