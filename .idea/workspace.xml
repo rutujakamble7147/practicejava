@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="adding stringBuffer example module">
+    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="update StringBuffer example module">
       <change beforePath="$PROJECT_DIR$/string-buffer-example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/string-buffer-example/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675433926002</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update StringBuffer example module">
+      <created>1675434178324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675434178324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding comparator-example-using-lambda-expression" />
     <MESSAGE value="adding stringBuffer example module" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding stringBuffer example module" />
+    <MESSAGE value="update StringBuffer example module" />
+    <option name="LAST_COMMIT_MESSAGE" value="update StringBuffer example module" />
   </component>
 </project>

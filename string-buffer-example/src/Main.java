@@ -6,5 +6,10 @@ public class Main {
         System.out.println(stringBuffer);
         stringBuffer.insert(6, " "+"santosh");
         System.out.println(stringBuffer);
+        System.out.println(stringBuffer.length());
+        System.out.println(stringBuffer.hashCode());
+        System.out.println(stringBuffer.toString());
+        System.out.println(stringBuffer.isEmpty());
+
     }
 }
