@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="update StringBuffer example module">
-      <change afterPath="$PROJECT_DIR$/Enum-example/Enum-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum-example/src/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum/src/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparator-example-using-lambda-expression/comparator-example-using-lambda-expression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashSet-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string-buffer-example/string-buffer-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringBuilder-example/stringBuilder-example.iml" afterDir="false" />
+    <list default="true" id="307e9fd3-7f12-4ea0-9aaf-309638ce9f62" name="Changes" comment="adding hashSet example module">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/Enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLocked-example/deadLocked-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLocked-example/src/deadLockedDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashSet-example/hashSet-example.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,31 +46,10 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="string-buffer-example" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Enum-example" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.deadLockedDriver (2)">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Enum" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="stringBuilder-example" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,13 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="deadLockedDriver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deadLockedDriver" />
+      <module name="deadLocked-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deadLockedDriver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deadLockedDriver" />
+      <module name="deadLocked-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deadLockedDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deadLockedDriver" />
+      <module name="deadLocked-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.deadLockedDriver (2)" />
+        <item itemvalue="Application.deadLockedDriver (1)" />
+        <item itemvalue="Application.deadLockedDriver" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675438351190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding hashSet example module">
+      <created>1675870679680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675870679680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +161,7 @@
     <MESSAGE value="adding comparator-example-using-lambda-expression" />
     <MESSAGE value="adding stringBuffer example module" />
     <MESSAGE value="update StringBuffer example module" />
-    <option name="LAST_COMMIT_MESSAGE" value="update StringBuffer example module" />
+    <MESSAGE value="adding hashSet example module" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding hashSet example module" />
   </component>
 </project>
